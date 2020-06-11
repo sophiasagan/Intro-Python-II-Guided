@@ -5,4 +5,5 @@ class Category:
         self.products = products
     
     def __str__(self):
+        # product_list = 
         return f"{self.name}: {self.description}"

@@ -20,3 +20,29 @@
     #Pseudocode
         #Dog("Rover", 40in, male,....)
 
+
+
+#Inheritance
+    # sneakers
+    # soccer balls
+    # weights
+    # bike
+
+    # Class Product:
+    #     name
+    #     price
+    #     quantity
+# -------------------------------------------------------------------------------
+    #     shoe_size
+    #     frame_size
+    #     weights
+
+    # Class Sneaker(Product): #Will have name, price, and quantity inherited from product
+    #     shoe_size
+    #     brand
+    #     color
+
+    # Class Balls(Product): #Will have name, price, and quantity inherited from product
+    #     size
+
+# ------------------Sneaker/Soccerball is a product
